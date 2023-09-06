@@ -14,4 +14,6 @@ function Navbar() {
             </section>
         </div>
     )
-}
+};
+
+export default Navbar
